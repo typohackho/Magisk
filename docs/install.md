@@ -122,7 +122,7 @@ Once you have rooted your Samsung device, you can no longer upgrade your Android
 It is very difficult to accurately detect the device's information in custom recovery environments. Due to this reason, installing Magisk through custom recoveries on modern devices is no longer recommended. If you face any issues, please use the [Patch Image](#patching-images) method as it is guaranteed to work 100% of the time.
 
 - Download the Magisk APK
-- Rename the `.apk` file extension to `.zip`, for example: `Magisk-v22.0.apk` → `Magisk-v22.0.zip`. If you have trouble renaming the file extension (like on Windows), use a file manager on Android or the one included in TWRP to rename the file.
+- Rename the `.apk` file extension to .zip`, for example: `Magisk-v22.0.apk` → `Magisk-v22.0.zip`. If you have trouble renaming the file extension (like on Windows), use a file manager on Android or the one included in TWRP to rename the file.
 - Flash the zip just like any other ordinary flashable zip.
 - Reboot and check whether the Magisk app is installed. If it isn't installed automatically, manually install the APK.
 
